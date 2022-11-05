@@ -1,0 +1,5 @@
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\EntityLayer\bin\Release\EntityLayer.dll
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\EntityLayer\bin\Release\EntityLayer.pdb
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\EntityLayer\obj\Release\EntityLayer.csprojResolveAssemblyReference.cache
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\EntityLayer\obj\Release\EntityLayer.dll
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\EntityLayer\obj\Release\EntityLayer.pdb

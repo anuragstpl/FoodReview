@@ -1,0 +1,11 @@
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\bin\FoodReview.dll
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\bin\FoodReview.pdb
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\obj\Debug\FoodReview.dll
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\obj\Debug\FoodReview.pdb
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\obj\Debug\FoodReview.csprojResolveAssemblyReference.cache
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\bin\DataLayer.dll
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\bin\EntityLayer.dll
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\bin\EntityFramework.dll
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\bin\DataLayer.pdb
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\bin\EntityLayer.pdb
+E:\Student Jobs\DotNet\FoodReview Website\FoodReview\FoodReview\bin\EntityFramework.xml

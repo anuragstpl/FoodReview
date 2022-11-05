@@ -1,0 +1,10 @@
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\bin\Release\DataLayer.dll.config
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\bin\Release\DataLayer.dll
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\bin\Release\DataLayer.pdb
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\bin\Release\EntityFramework.dll
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\bin\Release\EntityLayer.dll
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\bin\Release\EntityLayer.pdb
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\bin\Release\EntityFramework.xml
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\obj\Release\DataLayer.dll
+E:\Student Jobs\DotNet\Bidding Management\OnlineBidding\DataLayer\obj\Release\DataLayer.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FoodReviewModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="FoodReviewEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Users" EntityType="FoodReviewModel.User" />
+    <EntitySet Name="Foods" EntityType="FoodReviewModel.Food" />
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="400" Unicode="true" FixedLength="false" />
+    <Property Name="Username" Type="String" MaxLength="300" Unicode="true" FixedLength="false" />
+    <Property Name="Address" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Password" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="UserType" Type="String" MaxLength="10" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Food">
+    <Key>
+      <PropertyRef Name="FoodID" />
+    </Key>
+    <Property Type="Int32" Name="FoodID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FoodName" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Description" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="AddedOn" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FoodCategory" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FoodImage" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>
